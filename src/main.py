@@ -8,7 +8,6 @@ percent = float(sys.argv[2])
 res = apply_percent(price, percent)
 print(res)
 
-
 #print(f'Price : {price}/ percent : {percent}')
 
 
